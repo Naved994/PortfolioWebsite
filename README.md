@@ -23,12 +23,6 @@
 
 ---
 
-## 🧩 Notable Projects Displayed
-
-1. **Tic Tac Toe Game**  
-2. **Password Generator**  
-3. **Counter App**  
-4. **Profile Share Modal**
 
 Each project has live links and GitHub source links embedded.
 
